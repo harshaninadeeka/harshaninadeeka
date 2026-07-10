@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshani Nadeeka Gunawardana
 
-<!--
-**harshaninadeeka/harshaninadeeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Molecular Biotechnology (System Biology)
+🏫 University of Skövde, Sweden 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Molecular Biology
+- Bioinformatics
+- RNA Sequencing
+- Biotechnology
+- Systems Biology
+
+---
+
+## 🧪 Laboratory Skills
+
+- PCR
+- qPCR
+- DNA Extraction
+- RNA Extraction
+- Protein Extraction
+- Gel Electrophoresis
+- SDS/PAGE
+- Western Blotting
+- Restriction enzyme digestion
+- Primer design
+- Site-directed mutagenesis
+- Gene cloning techniques: Directional TOPO cloning and Gateway cloning
+- CRISPER/Cas 9 gene editing
+  
+
+---
+
+## 💻 Programming Skills
+
+- R
+- RStudio
+- Git
+- GitHub
+
+---
+
+## 📊 Bioinformatics Skills
+
+- RNA-seq Analysis
+- edgeR
+- limma
+- ggplot2
+- Differential Gene Expression
+- Volcano Plot
+- Heatmap
+- PCA
+- GO Enrichment
+
+
+---
+
+## 🎯 Career Goal
+
+I am seeking Research Assistant opportunities in Molecular Biology, Biotechnology, Genetics and Bioinformatics.

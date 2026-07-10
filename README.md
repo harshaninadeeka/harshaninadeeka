@@ -29,7 +29,7 @@
 - Primer design
 - Site-directed mutagenesis
 - Gene cloning techniques: Directional TOPO cloning and Gateway cloning
-- Chemical Transformatio
+- Chemical Transformation 
 - Preparation of media/solutions and cultures
 - CRISPER/Cas 9 gene editing
   

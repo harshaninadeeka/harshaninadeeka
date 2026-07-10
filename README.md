@@ -47,7 +47,7 @@
 
 ## 📊 Bioinformatics Skills
 
-- RNA-seq Analysis
+
 - edgeR
 - limma
 - ggplot2

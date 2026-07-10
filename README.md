@@ -38,8 +38,8 @@
 
 - R
 - RStudio
-- Git
-- GitHub
+  
+  
 
 ---
 

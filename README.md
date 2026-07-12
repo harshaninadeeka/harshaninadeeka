@@ -11,6 +11,8 @@
 - Bioinformatics
 - RNA Sequencing
 - Biotechnology
+- Genetics
+- Cell Biology
 - Systems Biology
 
 ---

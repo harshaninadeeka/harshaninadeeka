@@ -38,26 +38,36 @@
 
 ---
 
+
+
 ## 💻 Programming Skills
 
-- R
+- R Programming
 - RStudio
+- Bioconductor
+- miodin
+- R Markdown
+- Public Data Retrieval
+
   
   
 
 ---
 
-## 📊 Bioinformatics Skills
+## 📊 Core Bioinformatics Skills
 
+- Transcriptomics & RNA-Seq Analysis
+- Differential Expression Analysis
+- Functional Annotation & Pathway Analysis (GSA)
+- Biological Data Mining & Machine Learning
 
-- edgeR
-- limma
-- ggplot2
-- Differential Gene Expression
-- Volcano Plot
-- Heatmap
-- PCA
-- GO Enrichment
+### 🛠️ Technical Skills
+
+- **Languages & Frameworks:** R, R Markdown, Bioconductor
+- **Bioinformatics Workflows:** RNA-Seq & Microarray analysis, Quality Control, Differential Expression Analysis (limma, GLMs)
+- **Data Mining & Machine Learning:** Supervised Classification, Feature Selection, Hierarchical & K-means Clustering
+- **Functional Genomics:** Gene Set Analysis (ORA & GSEA), Pathway Enrichment Analysis
+- **Database Tools & Repositories:** NCBI GEO, EMBL-EBI BioStudies
 
 
 ---

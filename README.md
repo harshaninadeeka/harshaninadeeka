@@ -9,7 +9,7 @@
 
 - Molecular Biology
 - Bioinformatics
-- RNA Sequencing
+- RNA biology and RNA-based technologies
 - Biotechnology
 - Genetics
 - Cell Biology

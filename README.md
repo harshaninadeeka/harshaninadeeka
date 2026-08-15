@@ -13,6 +13,8 @@
 - Biotechnology
 - Genetics
 - Cell Biology
+- Cancer biology
+- Immunology and infection biology
 - Systems Biology
 
 ---

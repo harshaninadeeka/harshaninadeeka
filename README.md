@@ -3,6 +3,10 @@
 🎓 MSc Student in Molecular Biotechnology (Systems Biology)
 🏫 University of Skövde, Sweden 
 
+I am an MSc student in Molecular Biotechnology with a focus on Systems Biology. My interests are at the intersection of molecular biology, RNA biology, bioinformatics and biomedical research.
+
+I am particularly interested in understanding biological mechanisms through molecular biology and computational analysis of high-dimensional biological data.
+
 ---
 
 ## 🔬 Research Interests

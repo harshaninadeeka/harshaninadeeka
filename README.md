@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshani Nadeeka Gunawardana
 
-🎓 MSc Student in Molecular Biotechnology (System Biology)
+🎓 MSc Student in Molecular Biotechnology (Systems Biology)
 🏫 University of Skövde, Sweden 
 
 ---
@@ -35,7 +35,8 @@
 - Gene cloning techniques: Directional TOPO cloning and Gateway cloning
 - Chemical Transformation 
 - Preparation of media/solutions and cultures
-- CRISPER/Cas 9 gene editing
+- CRISPR/Cas 9 gene editing
+- Library Preparation for 16S rRNA Sequencing (Illumina MiSeq)
   
 
 ---

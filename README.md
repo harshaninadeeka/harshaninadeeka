@@ -95,22 +95,22 @@ Developing research interests in small non-coding RNAs, transcriptomics and gene
 
 ## 📚 Scientific & Academic Activities
 
-Scientific literature review
-Research paper analysis
-Scientific presentations
-Scientific communication
+-Scientific literature review
+-Research paper analysis
+-Scientific presentations
+-Scientific communication
 
 ## 👩‍🏫 Teaching Interests
 
 I am interested in developing experience in:
 
-Molecular Biology
-Biotechnology
-Bioinformatics
-R for Life Sciences
-Laboratory Teaching
-Scientific Data Analysis
-Student Mentoring
+-Molecular Biology
+-Biotechnology
+-Bioinformatics
+-R for Life Sciences
+-Laboratory Teaching
+-Scientific Data Analysis
+-Student Mentoring
 
 ## 🎯 Career Goal
 

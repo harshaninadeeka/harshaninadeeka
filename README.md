@@ -73,8 +73,49 @@ I am particularly interested in understanding biological mechanisms through mole
 - **Functional Genomics:** Gene Set Analysis (ORA & GSEA), Pathway Enrichment Analysis
 - **Database Tools & Repositories:** NCBI GEO, EMBL-EBI BioStudies
 
+## 📊 Research Projects
+🧬 Transcriptomics & Differential Expression
 
+Analysis of publicly available biological datasets using R and Bioconductor.
+
+Skills: R | Bioconductor | limma | Differential Expression | GSA
+
+
+
+🦠 16S rRNA Sequencing & Microbial Communities
+
+Analysis of bacterial communities using 16S rRNA gene amplicon sequencing.
+
+Skills: Molecular Biology | 16S rRNA Sequencing | Microbial Community Analysis | R
+
+🧬 RNA Biology & Small Non-Coding RNA
+
+Developing research interests in small non-coding RNAs, transcriptomics and gene regulation, with a focus on their applications in biomedical research.
+
+
+## 📚 Scientific & Academic Activities
+
+Scientific literature review
+Research paper analysis
+Scientific presentations
+Scientific communication
+
+## 👩‍🏫 Teaching Interests
+
+I am interested in developing experience in:
+
+Molecular Biology
+Biotechnology
+Bioinformatics
+R for Life Sciences
+Laboratory Teaching
+Scientific Data Analysis
+Student Mentoring
 
 ## 🎯 Career Goal
 
-I am seeking Research Assistant opportunities in Molecular Biology, Biotechnology, Genetics and Bioinformatics.
+I am seeking opportunities to develop my research experience in:
+
+Molecular Biology | Biotechnology | RNA Biology | Bioinformatics | Transcriptomics | Genetics | Biomedical Research
+
+My long-term goal is to pursue a PhD and develop a career combining biomedical research, bioinformatics and university teaching.

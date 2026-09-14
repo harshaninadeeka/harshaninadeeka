@@ -11,16 +11,18 @@ I am particularly interested in understanding biological mechanisms through mole
 
 ## 🔬 Research Interests
 
-- Molecular Biology
-- Bioinformatics
-- RNA biology and RNA-based technologies
-- Biotechnology
-- Genetics
-- Cell Biology
-- Cancer biology
-- Immunology and infection biology
-- Systems Biology
-
+Molecular Biology
+Biotechnology
+RNA Biology & RNA-based Technologies
+Bioinformatics
+Transcriptomics & RNA-seq
+Gene Regulation & Epigenetics
+Genetics
+Cell Biology
+Systems Biology
+Cancer Biology
+Immunology & Infection Biology
+Disease Mechanisms
 ---
 
 ## 🧪 Laboratory Skills

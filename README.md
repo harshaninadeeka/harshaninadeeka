@@ -27,6 +27,7 @@ I am particularly interested in understanding biological mechanisms through mole
 
 - PCR
 - qPCR
+- RT-PCR
 - DNA Extraction
 - RNA Extraction
 - Protein Extraction
@@ -41,6 +42,7 @@ I am particularly interested in understanding biological mechanisms through mole
 - Preparation of media/solutions and cultures
 - CRISPR/Cas 9 gene editing
 - Library Preparation for 16S rRNA Sequencing (Illumina MiSeq)
+- Library preparation for Oxford Nanopore and Nanopore Sequencing
   
 
 ---
@@ -52,6 +54,7 @@ I am particularly interested in understanding biological mechanisms through mole
 - Bioconductor
 - miodin
 - R Markdown
+- Linux
 - Public Data Retrieval
   
   
@@ -64,6 +67,7 @@ I am particularly interested in understanding biological mechanisms through mole
 - Differential Expression Analysis
 - Functional Annotation & Pathway Analysis (GSA)
 - Biological Data Mining & Machine Learning
+- single cell RNA seq Analysis
 
 ### 🛠️ Technical Skills
 
